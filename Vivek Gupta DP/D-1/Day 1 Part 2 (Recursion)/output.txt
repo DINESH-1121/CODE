@@ -1,0 +1,1 @@
+no of ways to place n queens: 2
